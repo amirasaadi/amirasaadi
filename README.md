@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Hosein Asaadi
 - 👀 I’m interested in Computational Neuroscince
-- 🌱 I’m currently learning GLMs
+- 🌱 I’m currently learning DDM models
 - 📫 How to reach me asaadi@duck.com
 
 <!---
